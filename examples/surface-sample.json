@@ -1,0 +1,37 @@
+{
+  "source": "../raw/surface.mp4",
+  "output": "../edit/surface-sample.mp4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "sections": [
+    {
+      "headline": "Fresh Windows 11",
+      "subline": "on a real Surface. Straight from Microsoft.",
+      "voice_text": "This Surface is now running a completely fresh copy of Windows 11. No bloatware, no old files, and it came straight from Microsoft.",
+      "clips": [
+        {"start": 1186, "end": 1192, "speed": 1},
+        {"start": 340, "end": 345, "speed": 1},
+        {"start": 251, "end": 256, "speed": 1}
+      ]
+    },
+    {
+      "step": "STEP 3",
+      "title": "Create the recovery drive",
+      "voice_text": "Plug in your USB drive. Search for recovery drive, and open Create a recovery drive. Uncheck Back up system files. Choose your USB drive, and click Create.",
+      "clips": [
+        {"start": 115, "end": 128},
+        {"start": 128, "end": 150, "zoom": [1.2, 0.44, 0.45]}
+      ]
+    },
+    {
+      "step": "STEP 4",
+      "title": "Copy the files to the USB",
+      "voice_text": "When it finishes, open the zip file you downloaded, and extract everything onto the USB drive. This can take a while. A fast USB 3 drive helps a lot.",
+      "clips": [
+        {"start": 155, "end": 170, "speed": 2},
+        {"start": 170, "end": 200}
+      ]
+    }
+  ]
+}
